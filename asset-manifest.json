@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ataglance-deploy/static/css/main.2cf23b42.css",
+    "main.js": "/ataglance-deploy/static/js/main.09e43e62.js",
+    "static/js/453.62601aa5.chunk.js": "/ataglance-deploy/static/js/453.62601aa5.chunk.js",
+    "index.html": "/ataglance-deploy/index.html",
+    "main.2cf23b42.css.map": "/ataglance-deploy/static/css/main.2cf23b42.css.map",
+    "main.09e43e62.js.map": "/ataglance-deploy/static/js/main.09e43e62.js.map",
+    "453.62601aa5.chunk.js.map": "/ataglance-deploy/static/js/453.62601aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf23b42.css",
+    "static/js/main.09e43e62.js"
+  ]
+}
